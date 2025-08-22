@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou Elias Marques 👋</h1>
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor Full Stack na **Clarke Energia**, atuando no desenvolvimento de soluções web escaláveis.  
+- 💻 Desenvolvedor Full Stack, criando soluções web escaláveis e experiências digitais impactantes.
 - 💼 +2 anos construindo aplicações full stack com **TypeScript, Reacte e Node.js**.  
 - 🌱 Aprofundando conhecimentos em **DevOps**, **Python** e **CI/CD**. 
 - 📫 Como me contatar: [eliasmqs397@gmail.com](eliasmqs397@gmail.com)
