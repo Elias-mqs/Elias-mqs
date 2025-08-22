@@ -67,13 +67,13 @@
 <p align="left">
   <a href="mailto:eliasmqs397@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/elias-marques-b747181b3/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5567991943524">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/elias_mqs/">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
