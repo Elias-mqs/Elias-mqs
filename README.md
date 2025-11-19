@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor Full Stack, criando soluções web escaláveis e experiências digitais impactantes.
 - 💼 +2 anos construindo aplicações full stack com **TypeScript, Reacte e Node.js**.  
-- 🌱 Aprofundando conhecimentos em **DevOps**, **Python** e **CI/CD**. 
+- 🌱 Aprofundando conhecimentos em **DevOps**, **Python** e **Cloud**. 
 - 📫 Como me contatar: [eliasmqs397@gmail.com](eliasmqs397@gmail.com)
 
 ---
